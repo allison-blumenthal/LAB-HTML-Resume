@@ -1,27 +1,46 @@
 body {
-  background-image: linear-gradient(to right, #ff006e, #817296);  
+  background-image: linear-gradient(to right, #f4978e, #90a955);
+}
+
+#name, #info {
+  font-family: 'Alkalami', serif;
+}
+
+#experience {
+  font-family: 'Alkalami', serif;
+  color: black;
 }
 
 #CG-style {
-
+  font-family: 'Noto Serif Gujarati', serif;
+  border: dotted #ecf39e 3px;
 }
 
 #BMS-style {
-
+  font-family: 'Passions Conflict', cursive;
+  border: groove #ffdab9 3px;
 }
 
 #MTSU-style {
-
+  font-family: 'Lora', serif;
+  border: double #dbc2cf 3px;
 }
 
 #BA-style {
-
+  font-family: 'Comforter Brush', cursive;
+  border: dashed #b8b8d1 3px;
 }
 
 #BRFLAIM-style {
+  font-family: 'Indie Flower', cursive;
+  border: ridge #bee9e8 3px;
+}
 
+article {
+  padding: 10px;
+  margin: 10px;
 }
 
 article h3 {
-
+  color: #31572c;
 }
